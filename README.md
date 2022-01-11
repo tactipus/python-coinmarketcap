@@ -1,7 +1,7 @@
 
 # Python-CoinMarketCap API Wrapper
 
-This is a non official (but working) Python package to wrap the CoinMarketCap API. With this you can monitoring and watch the crypto market.
+This is a non-official (but working) Python package to wrap the CoinMarketCap API. With this you can monitor and watch the crypto market.
 
 - First, you have to create an API on the [Developper Portal](https://coinmarketcap.com/api/)
 - Read the official [API documentation](https://coinmarketcap.com/api/documentation/v1/)
@@ -16,7 +16,7 @@ __Via pip__
 
 - pip install __python-coinmarketcap__
 
-> /!\ *Don't confound with the coinmarketcap package.*
+> /!\ *Don't confuse this with the coinmarketcap package.*
 
 ## Example
 
@@ -50,7 +50,7 @@ CoinMarketCapAPI(api_key=None, [debug=False, logger=None, sandbox=False, version
 
 __Methods__
 
-You have to pass to following methods the parameters detailled in the [official documentation](https://coinmarketcap.com/api/documentation/v1/).
+You have to pass to the following methods the parameters detailed in the [official documentation](https://coinmarketcap.com/api/documentation/v1/).
 
 | Methods and documentation | Description | Endpoint |
 |-|-|-|
